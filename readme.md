@@ -1,5 +1,5 @@
-# testing doang
-# yup
+# Latihan
+# Test 
 
-# testing tambahan disini
-# yes
+# Testing tambahan disini
+# End Of Latihan
