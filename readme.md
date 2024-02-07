@@ -1,5 +1,7 @@
-# Latihan
-# Test 
+# Skip this repo - nothing inside :D
 
-# Testing tambahan disini
-# End Of Latihan
+## Latihan
+## Test 
+
+## Testing tambahan disini
+## End Of Latihan
